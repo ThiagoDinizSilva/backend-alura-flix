@@ -19,10 +19,10 @@ Alura-Flix
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 Construção de uma API REST seguindo as orientações da [Edição #2: Desafios Back-End
 Desenvolva uma API do zero, escolhendo as linguagens e ferramentas](https://www.alura.com.br/challenges/back-end/) Challange proporcionado pela Alura!!
-  
+  ![](https://user-images.githubusercontent.com/79534537/130526762-d9e24513-4e53-44de-92e7-5602385cdcae.png)
+
 ### Built With
 
 * [NodeJS](https://nodejs.org/en/docs/)
