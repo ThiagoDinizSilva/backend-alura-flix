@@ -1,0 +1,30 @@
+{
+  "name": "backend-alura-flix",
+  "version": "1.0.0",
+  "description": "Alura-Flix\r [![MIT License][license-shield]][license-url]\r [![LinkedIn][linkedin-shield]][linkedin-url]",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon ./api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoDinizSilva/backend-alura-flix.git"
+  },
+  "author": "Thiago Diniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoDinizSilva/backend-alura-flix/issues"
+  },
+  "homepage": "https://github.com/ThiagoDinizSilva/backend-alura-flix#readme"
+}

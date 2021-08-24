@@ -27,7 +27,8 @@ Desenvolva uma API do zero, escolhendo as linguagens e ferramentas](https://www.
 
 * [NodeJS](https://nodejs.org/en/docs/)
 * [Express](https://expressjs.com/)
-
+* [Sequelize](https://sequelize.org/v5/)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
 
 <!-- howTo -->
 ## HowTo
